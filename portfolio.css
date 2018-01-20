@@ -8,10 +8,16 @@ p, li, body {
     color: #c9a72b;
     margin: 0;
     padding: 0 0;
+    font-family: Helvetica
 }
 p, li {
-    margin: 10px 180px;
-    font-size: 18px;
+    margin: 14px 180px;
+    font-size: 16px;
+}
+p.picture{
+    vertical-align:middle;
+    display:inline;
+    margin: 20px 10px;
 }
 h1 {
     margin: 20px 180px;
